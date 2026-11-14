@@ -1,7 +1,7 @@
 {
     "app_name": "KNOWME AI",
     "version": "0.1.1",
-    "download_url": "https://huggingface.co/knowmeon/knowme-ai-releases/resolve/main/KNOWME%20AI%20Setup.exe?download=true",
+    "download_url": "https://huggingface.co/knowmeon/knowme-ai-releases/resolve/main/KNOWME-AI-Setup.exe?download=true",
     "sha256": "B7BD6C5C243BC0B67EDCD4B68616C32190566B8901CDE67FC1ED1488425F1D46  ",
     "release_notes": [
         "Added automatic update checking",
