@@ -1,7 +1,7 @@
 {
     "app_name": "KNOWME AI",
     "version": "0.1.1",
-    "download_url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/releases/download/v0.1.1/KNOWME%20AI%20Setup.exe",
+    "download_url": "https://github.com/knowme92/knowme-ai-releases/releases/download/v0.1.1/KNOWME%20AI%20Setup.exe",
     "sha256": "B7BD6C5C243BC0B67EDCD4B68616C32190566B8901CDE67FC1ED1488425F1D46  ",
     "release_notes": [
         "Added automatic update checking",
