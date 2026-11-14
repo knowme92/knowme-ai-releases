@@ -2,7 +2,7 @@
     "app_name": "KNOWME AI",
     "version": "0.1.1",
     "download_url": "https://huggingface.co/knowmeon/knowme-ai-releases/resolve/main/KNOWME-AI-Setup.exe?download=true",
-    "sha256": "B7BD6C5C243BC0B67EDCD4B68616C32190566B8901CDE67FC1ED1488425F1D46  ",
+    "sha256": " 45297679B2DCC5A41F53B2324B9A6FE30EBA5B171EDC2A2E2D65C27882B99A43 ",
     "release_notes": [
         "Added automatic update checking",
         "Improved desktop application stability",
